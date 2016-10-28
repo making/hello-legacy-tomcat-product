@@ -1,0 +1,9 @@
+[submodule "hello-legacy-tomcat"]
+	path = hello-legacy-tomcat
+	url = https://github.com/making/hello-legacy-tomcat.git
+[submodule "hello-legacy-tomcat-boshrelease"]
+	path = hello-legacy-tomcat-boshrelease
+	url = https://github.com/making/hello-legacy-tomcat-boshrelease.git
+[submodule "hello-legacy-tomcat-tile"]
+	path = hello-legacy-tomcat-tile
+	url = https://github.com/making/hello-legacy-tomcat-tile.git
